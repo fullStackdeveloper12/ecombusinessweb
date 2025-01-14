@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  background-color: #f5f0f0;
+  color: rgba(0, 0, 0, 0.7);
+}
+.container {
+  width: 90%;
+}
+.MuiBadge-badge {
+  background-color: #ff5252 !important;
+}
+.swiper-button-prev {
+  background-color: white !important;
+  color: black !important;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  background-color: white !important;
+  color: black !important;
+}
