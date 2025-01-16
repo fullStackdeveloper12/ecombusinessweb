@@ -5,7 +5,6 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import { Navigation } from "swiper/modules"; // Import necessary modules
-
 // Import your images
 import c1 from "../../assets/categoryimages/c1.jpg";
 import c2 from "../../assets/categoryimages/c2.jpg";
